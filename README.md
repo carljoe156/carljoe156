@@ -57,7 +57,31 @@
 
 ### 🗒️ My Stats :
 <!--https://github-readme-streak-stats.herokuapp.com/?user=carljos156 -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carljoe156&theme=green-nur)](https://git.io/streak-stats)
+<!--[![Carl's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carljoe156&theme=green-nur)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carljoe156)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carljoe156&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- Same as below
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carljoe156&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljoe156&layout=compact&langs_count=8&theme=tokyonight" width="500 height="400"/>
+</a> -->
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=carljoe156&theme=green-nur" width="500" height="400"/>
+  </a>
+
+  <!-- GitHub Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljoe156&layout=compact&langs_count=8&theme=tokyonight&custom_color=abcdef" width="500" height="400"/>
+  </a>
+
+</div>
+
+
+
 
