@@ -55,7 +55,19 @@
 
 ---
 
-### 🗒️ My Stats :
+### 🗒️ My Stats & 💬 My Languages :
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px;">
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats" style="flex: 1 1 45%; max-width: 300px;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=carljoe156&theme=green-nur" width="100%" height="400" />
+  </a>
+  
+  <!-- GitHub Top Languages -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1 1 45%; max-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljoe156&layout=compact&langs_count=8&theme=tokyonight" width="100%" height="400" />
+  </a>
+</div>
+
 <!--https://github-readme-streak-stats.herokuapp.com/?user=carljos156 -->
 <!--[![Carl's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carljoe156&theme=green-nur)](https://git.io/streak-stats) -->
 
@@ -68,19 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljoe156&layout=compact&langs_count=8&theme=tokyonight" width="500 height="400"/>
 </a> -->
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=carljoe156&theme=green-nur" width="500" height="400"/>
-  </a>
-
-  <!-- GitHub Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carljoe156&layout=compact&langs_count=8&theme=tokyonight&custom_color=abcdef" width="500" height="400"/>
-  </a>
-
-</div>
 
 
 
